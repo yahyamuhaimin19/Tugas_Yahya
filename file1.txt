@@ -1,1 +1,3 @@
 ini file pertama
+Tambahkan tekx di file1.txt
+Tambahkan teks di file1.txt
